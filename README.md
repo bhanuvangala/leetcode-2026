@@ -12,7 +12,7 @@ All solutions are written in **Java** and include:
  **Goal:** Maintain consistent daily practice and create interview-ready solutions with clean, readable code.
 
 
-## Topics Covered
+## Topics To beCovered
 Arrays • Strings • Binary Search • Two Pointers • Sliding Window • Bit Manipulation • Stack • Queue • Trees • Graphs • Dynamic Programming
 
 
