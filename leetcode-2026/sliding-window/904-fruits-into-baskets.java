@@ -1,11 +1,10 @@
 import java.util.HashMap;
-import java.util.Map;
 
 class Solution {
     public int totalFruit(int[] fruits) {
 
         // HashMap to store fruit type and its count in current window
-        Map<Integer, Integer> map = new HashMap<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
 
         int left = 0;      // left pointer of sliding window
         int maxLen = 0;    // stores maximum window size
